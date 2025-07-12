@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /private/
+Sitemap: https://timono-vokabeltrainer.netlify.app/sitemap.xml
